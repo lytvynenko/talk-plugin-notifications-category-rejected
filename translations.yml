@@ -1,0 +1,6 @@
+en:
+  talk-plugin-notifications:
+    categories:
+      rejected:
+        subject: "One of your comments was rejected"
+        body: "Hi,\n\nThe comment you have submitted for moderation has been rejected."
